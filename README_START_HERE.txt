@@ -25,7 +25,7 @@ SETUP
 ALTERNATIVE: MANUAL GITHUB UPLOAD
 - Create a PUBLIC repository named embrofolio-images under GitHub owner
   t3960534-ux (same username appearing in your working Cabin Recipes import).
-- Drag/drop the JPG files from GITHUB_REPO/pins into the repo's /pins folder.
+- Drag/drop the JPG files from pins into the repo's /pins folder.
   Do NOT upload the ZIP as a single file: Pinterest needs separate public JPG URLs.
 - Once files are public, run:
   py TOOLS\BUILD_IMPORT_CSV.py --owner t3960534-ux --repo embrofolio-images --ref main --verify
@@ -35,6 +35,6 @@ IMPORTANT
 - JPEG encoding is inherently lossy even at Quality 100. The original PNG source
   files have NOT been overwritten in your uploaded original archive.
 - The project links point to https://embrofolio.com/projects/... with unique UTMs.
-- Pinterest boards must already exist. Review imported schedule dates before posting.
+- Pinterest creates missing boards/sections from the CSV names. Review imported schedule dates before posting.
 - This ZIP contains NO API keys or GitHub tokens.
 - The GitHub repository is not created/uploaded until YOU run the command.

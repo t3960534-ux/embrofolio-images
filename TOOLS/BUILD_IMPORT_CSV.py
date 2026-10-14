@@ -66,6 +66,6 @@ def main():
         print(f'Created {path.relative_to(BASE)}: {len(block)} rows')
     print('These are image Pins, not videos. The files contain no video paths.')
     print('Do not import TEST_ONE_PIN plus ALL_64: that would duplicate the first Pin.')
-    print('Confirm your Pinterest boards exist and scheduled dates are still in the future.')
+    print('Review board names and confirm scheduled dates are still in the future.')
 
 if __name__=='__main__':main()
