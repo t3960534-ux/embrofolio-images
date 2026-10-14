@@ -57,15 +57,15 @@ def main():
     OUTPUT.mkdir(exist_ok=True)
     blocks=[('PART_1_26.csv',result[:26]),('PART_2_26.csv',result[26:52]),('PART_3_12.csv',result[52:])]
     blocks.append(('ALL_64.csv',result))
-    blocks.append(('TEST_ONE_PIN.csv',result[:1]))
-    blocks.append(('REMAINING_63_AFTER_TEST.csv',result[1:]))
+    blocks.append(('TEST_TWO_PINS.csv',result[:2]))
+    blocks.append(('REMAINING_62_AFTER_TEST.csv',result[2:]))
     for name,block in blocks:
         path=OUTPUT/name
         with path.open('w',encoding='utf-8-sig',newline='') as f:
             w=csv.DictWriter(f,fieldnames=FIELDS);w.writeheader();w.writerows(block)
         print(f'Created {path.relative_to(BASE)}: {len(block)} rows')
     print('These are image Pins, not videos. The files contain no video paths.')
-    print('Do not import TEST_ONE_PIN plus ALL_64: that would duplicate the first Pin.')
+    print('Do not import TEST_TWO_PINS plus ALL_64: that would duplicate the first two Pins.')
     print('Review board names and confirm scheduled dates are still in the future.')
 
 if __name__=='__main__':main()

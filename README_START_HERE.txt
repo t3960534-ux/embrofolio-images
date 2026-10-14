@@ -17,9 +17,9 @@ SETUP
    pushes 64 JPG images and builds the Pinterest CSV once all URLs are publicly reachable.
 6. If GitHub is still propagating, wait a few minutes and double-click
    RECHECK_BUILD_PINTEREST_CSV.cmd.
-7. Test PINTEREST_READY/TEST_ONE_PIN.csv in Pinterest bulk image import first.
-8. After successful test, avoid uploading that first Pin twice. Use ALL_64 only
-   if you did NOT import the test Pin; otherwise remove the first row from Part 1.
+7. Test PINTEREST_READY/TEST_TWO_PINS.csv in Pinterest bulk image import first.
+8. After successful test, avoid uploading those first two Pins twice. Use ALL_64 only
+   if you did NOT import the test Pin; otherwise remove the first two rows from Part 1.
 9. For normal upload, import PART_1_26.csv, PART_2_26.csv, PART_3_12.csv.
 
 ALTERNATIVE: MANUAL GITHUB UPLOAD

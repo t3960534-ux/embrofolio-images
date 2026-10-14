@@ -1,0 +1,327 @@
+{
+  "checked_date": "2026-10-14",
+  "count": 64,
+  "method": "Downloaded each public JPG; SHA-256 matches original manifest and local file",
+  "images": [
+    {
+      "filename": "ef001-moonlit-bat-sleeve-hoodie.jpg",
+      "sha256": "4466507f0da0325fc497633284bfdf27ef4a80f69e3328a4bca3b886f12f8d5d",
+      "verified": true
+    },
+    {
+      "filename": "ef002-wave-whale-song-finished-hoop.jpg",
+      "sha256": "da8cd7a8ec708a62a11fef1dadfeedb84d09cff2a48d6a38289c39f86020e541",
+      "verified": true
+    },
+    {
+      "filename": "ef003-grumpy-crow-stars-denim-pocket.jpg",
+      "sha256": "be6fc4440ee5e78b2f5b755bf6a4d1300d49713756bcd80f0c9d9b62b24a108f",
+      "verified": true
+    },
+    {
+      "filename": "ef004-three-drama-cats-hoodie.jpg",
+      "sha256": "7c179cc48bb2999cbb712f4a95bd06236d7a406060eab3af93f54e0914745ff4",
+      "verified": true
+    },
+    {
+      "filename": "ef005-unfinished-jaguar-bloom-finished-hoop.jpg",
+      "sha256": "3714ec117baf2f5cb7464f59078fa667dd6508b176e08ac62214b607772354d8",
+      "verified": true
+    },
+    {
+      "filename": "ef006-coral-octopus-garden-finished-hoop.jpg",
+      "sha256": "1b16099788132bc310c299ae7c7c57fef7a8e33818a6f43b1d5c63713b68ca84",
+      "verified": true
+    },
+    {
+      "filename": "ef007-hummingbird-blossom-arc-finished-hoop.jpg",
+      "sha256": "d62dfd95d213604fc7da35cf87bfefbb97b0f6199db38d6410104bda72489a37",
+      "verified": true
+    },
+    {
+      "filename": "ef008-smug-frog-lotus-finished-hoop.jpg",
+      "sha256": "386122b5943181a90bb120a77036a93f894ab2da5ba22a97f8b08d43c88d4d18",
+      "verified": true
+    },
+    {
+      "filename": "ef009-bee-and-wildflowers-finished-hoop.jpg",
+      "sha256": "6a110018a0314f7bbc4446d3d0bee67b319c5ebc085d2e5a89bb868161cfcf32",
+      "verified": true
+    },
+    {
+      "filename": "ef010-moonlit-bat-sleeve-finished-hoop.jpg",
+      "sha256": "20bde38a339b1ed7fab2d5639d07f120ac3500c6502468092dc08e98ed7077b7",
+      "verified": true
+    },
+    {
+      "filename": "ef011-wave-whale-song-denim-pocket.jpg",
+      "sha256": "2361899b943385a5d3cd1d70f76e8144d69704f12c15049134640aaa5ca0bf24",
+      "verified": true
+    },
+    {
+      "filename": "ef012-grumpy-crow-stars-fabric-preview.jpg",
+      "sha256": "30ebf75e05508f792bd3cccdfb9a37a3a85ecd9683022eece9d33bc91fd6d659",
+      "verified": true
+    },
+    {
+      "filename": "ef013-hummingbird-blossom-arc-pattern-preview.jpg",
+      "sha256": "96247e132db6f1af38674ecfeb7dd30aa9bcc0cf2d369c0f2eba212454cc30a3",
+      "verified": true
+    },
+    {
+      "filename": "ef014-coral-octopus-garden-pattern-preview.jpg",
+      "sha256": "d0d5e2a7ffae4667664aa99a0928bb58950beca25b7d3a0e8c75e803d336bfff",
+      "verified": true
+    },
+    {
+      "filename": "ef015-three-drama-cats-finished-hoop.jpg",
+      "sha256": "db06b599adcf2651fe20553884b28d274efb98dae471b752aa0c020fb1e3fdb9",
+      "verified": true
+    },
+    {
+      "filename": "ef016-smug-frog-lotus-mug-rug.jpg",
+      "sha256": "5f049b7d6273e8f33c39c7cc47d1f254749306651ea72499b89dcc2505f039d2",
+      "verified": true
+    },
+    {
+      "filename": "ef017-bee-and-wildflowers-sweater-cuff.jpg",
+      "sha256": "a0eb4d7b940b2a56d2c5ca89fa544de69b12ec2d0f80108302b74ca5b711d5ae",
+      "verified": true
+    },
+    {
+      "filename": "ef018-wave-whale-song-stitch-closeup.jpg",
+      "sha256": "bbe158d4d129c0bd6570ab04e0c7a7b6d37ec0f3ea50ed215f1243e00e748c5e",
+      "verified": true
+    },
+    {
+      "filename": "ef019-grumpy-crow-stars-line-art-preview.jpg",
+      "sha256": "599058b805970208263c1c7d26a51f40f17c3adae2bb949381b11e18b3071611",
+      "verified": true
+    },
+    {
+      "filename": "ef020-unfinished-jaguar-bloom-pattern-preview.jpg",
+      "sha256": "0f90a10f3ad8632c59ad2420dc9e7933f69b3e9780159e2353a8341a348d377d",
+      "verified": true
+    },
+    {
+      "filename": "ef021-coral-octopus-garden-stitch-closeup.jpg",
+      "sha256": "dac67babb63ad4b7bf988a6ea74aa2e65ffd9372fd6643f834815945fe17d494",
+      "verified": true
+    },
+    {
+      "filename": "ef022-hummingbird-blossom-arc-stitch-closeup.jpg",
+      "sha256": "5e6be64909d97929fed48c975d7304ebeef61ed8305804e1481c6ff217ae5173",
+      "verified": true
+    },
+    {
+      "filename": "ef023-smug-frog-lotus-stitch-closeup.jpg",
+      "sha256": "27c1a139db49ea4d66415065729fefd990d8d308b3647d7c7e8d17d81c74b150",
+      "verified": true
+    },
+    {
+      "filename": "ef024-bee-and-wildflowers-pattern-materials.jpg",
+      "sha256": "3d0c966909e78ae5da8e3b547721ad59fc321d55fd06d797bbe3a06e20bf3ce1",
+      "verified": true
+    },
+    {
+      "filename": "ef025-moonlit-bat-sleeve-baseball-cap.jpg",
+      "sha256": "d67f7ee6181a2026191643818393972d158b2455def49f6da7b25d4d42b44365",
+      "verified": true
+    },
+    {
+      "filename": "ef026-wave-whale-song-pattern-preview.jpg",
+      "sha256": "e8b634dc2a91b7a28b83113280e09f1aadf6a3bb9e91c2c86dbbe07c3d314304",
+      "verified": true
+    },
+    {
+      "filename": "ef027-grumpy-crow-stars-finished-hoop.jpg",
+      "sha256": "a43531cc16290148ca82fd1a749e24ace3ff64fa22914131c9702f72de30bcf9",
+      "verified": true
+    },
+    {
+      "filename": "ef028-coral-octopus-garden-pattern-materials.jpg",
+      "sha256": "13be2e115debae5d351ad63208934f5b56fb8c2deabd4d59f2fed46dd0f63aa7",
+      "verified": true
+    },
+    {
+      "filename": "ef029-hummingbird-blossom-arc-yellow-cardigan.jpg",
+      "sha256": "b52d3a94b856596484bb0f2e1b331dabc78fe73702ee1893e63e1931f8f19439",
+      "verified": true
+    },
+    {
+      "filename": "ef030-bee-and-wildflowers-stitch-closeup.jpg",
+      "sha256": "7a5e007725df70a1ca66b5f88b588cf6ba8a65f94dcc164bd358f5ef494611d4",
+      "verified": true
+    },
+    {
+      "filename": "ef031-unfinished-jaguar-bloom-jeans-pocket.jpg",
+      "sha256": "17621f962a1b2246983716231462a1141c377fba1834377196b956b443de0810",
+      "verified": true
+    },
+    {
+      "filename": "ef032-wave-whale-song-blue-sweatshirt.jpg",
+      "sha256": "709877e07cb7063887087c2c5b7298adde1a5d4456b0bfda89c8873a848b19ed",
+      "verified": true
+    },
+    {
+      "filename": "ef033-bee-and-wildflowers-denim-pocket.jpg",
+      "sha256": "69fc75324538c6658677809b4ffc9d13f14e4dfa632471cec400d3dea72c28f9",
+      "verified": true
+    },
+    {
+      "filename": "ef034-coral-octopus-garden-denim-patch.jpg",
+      "sha256": "1b24c6ae13010bb47e64e12c3368ae7d08e3649ba2b225c8830da04fbec82ef4",
+      "verified": true
+    },
+    {
+      "filename": "ef035-three-drama-cats-stitch-closeup.jpg",
+      "sha256": "d1be28dee5e721d8e208f3367122da3653f89b18ad31f3076b6717cbe4f54c63",
+      "verified": true
+    },
+    {
+      "filename": "ef036-grumpy-crow-stars-pattern-materials.jpg",
+      "sha256": "9ceac78de6b0d4b85aaf3004b6e102003b1ab1b914c8894d314b34c9a011d1ae",
+      "verified": true
+    },
+    {
+      "filename": "ef037-unfinished-jaguar-bloom-stitch-closeup.jpg",
+      "sha256": "aa33dab872cc5a5de6044eddcc0f3449cec5e7899a0e9861f99af26aaddf1fa5",
+      "verified": true
+    },
+    {
+      "filename": "ef038-smug-frog-lotus-jeans-pocket.jpg",
+      "sha256": "85685af28c0fae2b4806ec2d6c0a8a79ad0b8e1b8e49aa96847a74e4c478aa53",
+      "verified": true
+    },
+    {
+      "filename": "ef039-coral-octopus-garden-blue-hoodie.jpg",
+      "sha256": "2292dc1d5c58933149737bfffd508718da3dfc6ebe33423bd045aa9397e6d82c",
+      "verified": true
+    },
+    {
+      "filename": "ef040-moonlit-bat-sleeve-sleeve-detail.jpg",
+      "sha256": "4bb94e025588f34acec21f9ba765be2af2dcc759ec0f17878f3ea3bad75fc344",
+      "verified": true
+    },
+    {
+      "filename": "ef041-three-drama-cats-pattern-materials.jpg",
+      "sha256": "f70830a2a78748daa38b2bc933b9505b29ed585d8370ec646e4edae074afc57e",
+      "verified": true
+    },
+    {
+      "filename": "ef042-wave-whale-song-pattern-materials.jpg",
+      "sha256": "efc6dbee462ef5cf41fed62bca979c4836f4144ea055e9654c6a9943c66e2e74",
+      "verified": true
+    },
+    {
+      "filename": "ef043-unfinished-jaguar-bloom-baseball-cap.jpg",
+      "sha256": "2d4adfb37d39084fd134fd58d89833a98568f6e91e5661ce1daec3895fa1e56e",
+      "verified": true
+    },
+    {
+      "filename": "ef044-hummingbird-blossom-arc-pattern-materials.jpg",
+      "sha256": "e7e4a91fc9446c78e1884ae0144f627eacb39d66ffd83f0afedf2759a4dbad3c",
+      "verified": true
+    },
+    {
+      "filename": "ef045-moonlit-bat-sleeve-pattern-materials.jpg",
+      "sha256": "f5bf5ded5724237d647207ddb79bdadc39476f4b3d1617cdf3cec05ca6764523",
+      "verified": true
+    },
+    {
+      "filename": "ef046-smug-frog-lotus-pattern-materials.jpg",
+      "sha256": "8675416d5da931dd317d23fae06462f1c74f9203bc46e34237e226dc1f03d404",
+      "verified": true
+    },
+    {
+      "filename": "ef047-three-drama-cats-sweatshirt-chest.jpg",
+      "sha256": "37695b573c0226fd91542a2365bc42757d8afa5d00e162fc030efb47d117b425",
+      "verified": true
+    },
+    {
+      "filename": "ef048-unfinished-jaguar-bloom-materials-kit.jpg",
+      "sha256": "fdb9dbc49cf70b2b2642a3f62c0eb7e3fd2f0d426e2fed7c672b58aa77af93cc",
+      "verified": true
+    },
+    {
+      "filename": "ef049-grumpy-crow-stars-stitch-closeup.jpg",
+      "sha256": "dec24a9814bd48802e254dbb4aaa09d13c30e9664cd6b9b66bc9392a8ee0b28c",
+      "verified": true
+    },
+    {
+      "filename": "ef050-hummingbird-blossom-arc-blazer-placement.jpg",
+      "sha256": "a10409f57b3fc21dbe87584a53fe9c898a5974acad5a4cb1b3cbd3d03480c6c6",
+      "verified": true
+    },
+    {
+      "filename": "ef051-moonlit-bat-sleeve-stitch-closeup.jpg",
+      "sha256": "6f7731140d3755b7d6abef6d07de59808a749283aedb1ad4e4cb15c3ceccf61e",
+      "verified": true
+    },
+    {
+      "filename": "ef052-smug-frog-lotus-pattern-preview.jpg",
+      "sha256": "fbb9a601229887f4f7dbd2c0aff65ceee6fb3e463e51759043d72c233fe4c8c1",
+      "verified": true
+    },
+    {
+      "filename": "ef053-coastal-shell-corner-materials.jpg",
+      "sha256": "7fd0419db20a6ee33a71f25b85ab28f6d2a8f124438fc2836e95e687b5d6119a",
+      "verified": true
+    },
+    {
+      "filename": "ef054-coastal-shell-corner-finished-hoop.jpg",
+      "sha256": "0b69504f5e89f4fc7bfa9b4476813b3f617411977a90d256d3e5ed4bc92551b2",
+      "verified": true
+    },
+    {
+      "filename": "ef055-coastal-shell-corner-design-preview.jpg",
+      "sha256": "4560df0831bb9c669c5a7271565c1b6e9f3c352ff48bd36c6500baf84efe350c",
+      "verified": true
+    },
+    {
+      "filename": "ef056-coastal-shell-corner-on-fabric.jpg",
+      "sha256": "d41884dd185098da2102e4a0106ffc20d3f13be7edc683edb8c590d329a7a347",
+      "verified": true
+    },
+    {
+      "filename": "ef057-coastal-shell-corner-stitch-detail.jpg",
+      "sha256": "3a49a6c0a9e3a1b959c356343754e1faad796bf46547f8b1e8390326fa821515",
+      "verified": true
+    },
+    {
+      "filename": "ef058-coastal-shell-corner-sweatshirt.jpg",
+      "sha256": "e187ff8400c7988291267ac45f65b84aefac9e15cd94ca273ab3ed7c52725d33",
+      "verified": true
+    },
+    {
+      "filename": "ef059-botanical-tote-corner-tote-corner.jpg",
+      "sha256": "dc9c14513be890ca732a7c42d3ef0d84baa24089a92dac50b1b265958fcb110b",
+      "verified": true
+    },
+    {
+      "filename": "ef060-botanical-tote-corner-stitch-detail.jpg",
+      "sha256": "a07b7d083864e6154ef0069cb29c4044e3702881322f19418a7f602a4b9ffa16",
+      "verified": true
+    },
+    {
+      "filename": "ef061-botanical-tote-corner-hoodie.jpg",
+      "sha256": "67382d096dc43e627c08364f20fba0431eadce73b6e203f9dc77908a19854257",
+      "verified": true
+    },
+    {
+      "filename": "ef062-botanical-tote-corner-design-preview.jpg",
+      "sha256": "7390762070a8e7ed8e878049b9d998f1492efa165a32cd70ff12f9807d282261",
+      "verified": true
+    },
+    {
+      "filename": "ef063-botanical-tote-corner-finished-hoop.jpg",
+      "sha256": "2a8f7b4f5b5cbebf88207eddad889d1773a87b3726b1230672f06ee6f9f89fcc",
+      "verified": true
+    },
+    {
+      "filename": "ef064-botanical-tote-corner-materials.jpg",
+      "sha256": "ec10cbd1821fd60823f1396737b93f673dc359f665165b36a6c96c4847b8da6d",
+      "verified": true
+    }
+  ]
+}

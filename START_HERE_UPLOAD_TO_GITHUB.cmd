@@ -74,5 +74,5 @@ if not errorlevel 1 (
 if errorlevel 1 (echo Some GitHub links may need time. Run RECHECK_BUILD_PINTREST_CSV.cmd shortly.)
 :end
 echo.
-echo If successful, open PINTEREST_READY, and test ONE PIN before importing all.
+echo If successful, open PINTEREST_READY, and test TWO PINS before importing all.
 pause

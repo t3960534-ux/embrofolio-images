@@ -12,7 +12,7 @@ Generate import CSVs after pushing the images:
 py -3 TOOLS/BUILD_IMPORT_CSV.py --owner t3960534-ux --repo embrofolio-images --ref COMMIT_SHA --verify
 ```
 
-Output goes into `PINTEREST_READY/`. Import `ALL_64.csv` or the three numbered parts, not both. Use `TEST_ONE_PIN.csv` first; after importing the test, use `REMAINING_63_AFTER_TEST.csv` to avoid a duplicate.
+Output goes into `PINTEREST_READY/`. Import `ALL_64.csv` or the three numbered parts, not both. Use `TEST_TWO_PINS.csv` first; after importing the test, use `REMAINING_62_AFTER_TEST.csv` to avoid a duplicate.
 
 Original board names, descriptions, tracking links and schedule dates are preserved. Some destination projects may still be drafts; review them before their Pins are published.
 
