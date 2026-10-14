@@ -15,3 +15,7 @@ py -3 TOOLS/BUILD_IMPORT_CSV.py --owner t3960534-ux --repo embrofolio-images --r
 Output goes into `PINTEREST_READY/`. Import `ALL_64.csv` or the three numbered parts, not both. Use `TEST_ONE_PIN.csv` first; after importing the test, use `REMAINING_63_AFTER_TEST.csv` to avoid a duplicate.
 
 Original board names, descriptions, tracking links and schedule dates are preserved. Some destination projects may still be drafts; review them before their Pins are published.
+
+## Destination page check (2026-10-14)
+
+All 64 media URLs return public JPEG images. The project pages for `coastal-shell-corner` and `botanical-tote-corner` currently return 404, affecting Pins EF053?EF064. All 64 Pins are retained as requested. Publish those two project pages before their Pins go live. See `metadata/DESTINATION_LINK_STATUS.csv`.
